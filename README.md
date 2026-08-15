@@ -10,7 +10,7 @@ My name is Vernon Muddle,
 - 😄 Pronouns: he, him
 
 ### My Career: 
-- I started my working life in the electronics industry.
+- I started my working life in the electronics industry at Mack Electronics.
   - I worked on: 
     - industrial controllers, mainly for air conditioning systems.
     - telephony pabx systems.
@@ -21,8 +21,20 @@ My name is Vernon Muddle,
   - I worked as an analyst programmer initially, progressed to a team leader.
   - Some of the projects that I worked on were, Election System, Budget System, Backup System, Various Data Migrations, Server room refurbishment, Council Amalgamation, Training Booking System.
   - My favourite part of working for Council was working tghtly with the finance team on the budgeting system that we had created together.  The election system was also quote a buzz, as we created our own system that allowed us to to election counting in a very efficient manor.  Software was very much driven by the hardware back then to get the most efficiency during the election counting process.
+- From late 2012 to early 2026, my Wife and I worked on the www.k9entries.com Dog agility management system.
+  - I worked in mostly the engineering side of things.
+    - AWS administration
+    - CI/CD
+    - EC2, ALB, S3, SQS, SNS, Docker, MySQL, Apache, PHP
+  - I did some design advice on things like:
+    - using SQS in front of MySQL to reduce the number of MySQL connections in use.
+    - using Docker so as to be able to easily do DEV/TST/PRD deployments.
+    - MySQL backup/recovery.
+    - S3 as a object store for file attachements.
+    - SNS for sending messages to the customers (SMS Text messages).
+  - I worked on some of the Software development PHP + Html/Javascript.
 - I did a short contract with Technology One in 2013.
-  - I worked on helpdesk as well as backup systems, system migration of vmware to aws EC2.
+  - I worked on helpdesk as well as tape backup systems, system migration of vmware to aws EC2.
 - I moved to Super Retail Group (SRG) in late 2013 and worked in Information Technology on Various Retail Support Systems.
   - I worked in roles such as Systems Engineer, Software Developer, Developer Team Lead, Tester, Integration Specialist, DevOps Engineer.
   - Some of the projects that I worked on were, System Monitoring with Zenoss and Nagios, Data Analysis, SAP ABAP Debugging, Store Hardware refurbishment, Coding Standards, Code Quality, Automated Testing, CI/CD, Devops.
