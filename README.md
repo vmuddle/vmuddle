@@ -37,7 +37,7 @@ My name is Vernon Muddle,
   - I worked on helpdesk as well as tape backup systems, system migration of vmware to aws EC2.
 - I moved to Super Retail Group (SRG) in late 2013 and worked in Information Technology on Various Retail Support Systems.
   - I worked in roles such as Systems Engineer, Software Developer, Developer Team Lead, Tester, Integration Specialist, DevOps Engineer.
-  - Some of the projects that I worked on were, System Monitoring with Zenoss and Nagios, Data Analysis, SAP ABAP Debugging, Store Hardware refurbishment, Coding Standards, Code Quality, Automated Testing, CI/CD, Devops.
+  - Some of the projects that I worked on were, System Monitoring with Zenoss and Nagios, Data Analysis, SAP ABAP Debugging, Store Hardware refurbishment, Insurance Database, Coding Standards, Code Quality, Automated Testing, CI/CD, Devops.
   - My favourite part of working at SRG was when I was able to work with my team to automate parts of their job and reduce both the load a risk of human error away from them.  This was done with monitoring, test automation, quality automation, build and deployment automation. 
 
 ### My skills:
