@@ -1,16 +1,45 @@
 ## Hi there 👋
 
-<!--
-**vmuddle/vmuddle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Vernon Muddle,
+- 🔭 I’m currently working on documenting previous bodies of work with a goal to reimpliment some of those in more up to date technologies.
+- 🌱 I’m currently learning 
+- 👯 I’m looking to collaborate on python, django, aws, ai, ci/cd related projects.
+- 🤔 I’m looking for help with finding some paid work.
+- 💬 Ask me about python, django, jenkins, github actions, aws, php, perl, bash.
+- 📫 How to reach me: vmuddle@gmail.com
+- 😄 Pronouns: he, him
 
-Here are some ideas to get you started:
+### My Career: 
+- I started my working life in the electronics industry.
+  - I worked on: 
+    - industrial controllers, mainly for air conditioning systems.
+    - telephony pabx systems.
+    - coin operated vending machines.
+    - manufacture of electronics for the abovementioned and the test harnesses to test these.
+  - My favourite part of working at Mack Electronics was working with my team to build test and deliver creative electronics solutions to our customers. 
+- I moved into Local Government (RCC, MBRC) in late 1996 and worked there until early 2013.
+  - I worked as an analyst programmer initially, progressed to a team leader.
+  - Some of the projects that I worked on were, Election System, Budget System, Backup System, Various Data Migrations, Server room refurbishment, Council Amalgamation, Training Booking System.
+  - My favourite part of working for Council was working tghtly with the finance team on the budgeting system that we had created together.  The election system was also quote a buzz, as we created our own system that allowed us to to election counting in a very efficient manor.  Software was very much driven by the hardware back then to get the most efficiency during the election counting process.
+- I did a short contract with Technology One in 2013.
+  - I worked on helpdesk as well as backup systems, system migration of vmware to aws EC2.
+- I moved to Super Retail Group (SRG) in late 2013 and worked in Information Technology on Various Retail Support Systems.
+  - I worked in roles such as Systems Engineer, Software Developer, Developer Team Lead, Tester, Integration Specialist, DevOps Engineer.
+  - Some of the projects that I worked on were, System Monitoring with Zenoss and Nagios, Data Analysis, SAP ABAP Debugging, Store Hardware refurbishment, Coding Standards, Code Quality, Automated Testing, CI/CD, Devops.
+  - My favourite part of working at SRG was when I was able to work with my team to automate parts of their job and reduce both the load a risk of human error away from them.  This was done with monitoring, test automation, quality automation, build and deployment automation. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My skills:
+- Software Engineering.
+  - Analysing, designing and implementing solutions with software to assist customers in achieving their goals.
+- Systems Engineering.
+  - Kind of the hardware and administration for the systems that support the abovementioned software.
+- Team leadership.
+  - I get a buzz from working with my team and giving them the trust and freedom to do their best.
+    - Get out of their way and clear obstacles that they might encounter along their journey.
+  - I like to build a team that can both rely on eachother and be able to take on eachother's work by having shared skillsets.
+
+### What I like to work on:
+- I like to be a team leader, or someone to look up to in my team.
+- I like to be able to give my team the trust that they need to do great things.
+- I like it when my team reaches to me for collaboration.
+- I love to learn things from my team.
