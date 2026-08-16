@@ -25,7 +25,8 @@ For more details look at the following page. [Career Details](career.md)
 
 
 ### What I like to work on:
-- I like to be a team leader, or someone to look up to in my team.
-- I like to be able to give my team the trust that they need to do great things.
-- I like it when my team reaches to me for collaboration.
+- I like to do software development, I am a coder at heart.
+- I can be a team leader, a team member, or someone to look up to in my team.
+- I like to be able work with my team to do great things.
+- I like it when my team collaborates well.
 - I love to learn things from my team.
