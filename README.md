@@ -21,7 +21,7 @@ My name is Vernon Muddle,
 
 ### My Career: 
 I have worked in the Electronics Industry, Local Government and Retail.
-For more details look at the following page. [[career.md]]
+For more details look at the following page. [Career Details](career.md)
 
 
 ### What I like to work on:
