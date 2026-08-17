@@ -19,6 +19,10 @@ My name is Vernon Muddle,
     - Get out of their way and clear obstacles that they might encounter along their journey.
   - I like to build a team that can both rely on eachother and be able to take on eachother's work by having shared skillsets.
 
+### My Projects:
+- homelab-compose: A docker-compose for my HomeLab.
+- 3d-models: Many 3dmodels that I have created.
+
 ### My Career: 
 I have worked mostly as a software developer, I also have worked in infrastructure as code and test automation.
 The industries that I have worked in are Electronics, Local Government and Retail, genrally in the Information Technology space.
