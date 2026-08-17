@@ -20,9 +20,10 @@ My name is Vernon Muddle,
   - I like to build a team that can both rely on eachother and be able to take on eachother's work by having shared skillsets.
 
 ### My Projects:
-- homelab-compose: A docker-compose for my HomeLab.
-- 3d-models: Many 3dmodels that I have created.
-
+- [homelab](https://github.com/vmuddle/homelab): A docker-compose for my HomeLab.
+- [ci-cd](https://github.com/vmuddle/ci-cd): A shared library of ci/cd tools, shared github actions.
+- [3d-models](https://github.com/vmuddle/3d-models): Many 3dmodels that I have created.
+- [electronics](https://github.com/vmuddle/electronics): Various electronics projects that I have created.
 ### My Career: 
 I have worked mostly as a software developer, I also have worked in infrastructure as code and test automation.
 The industries that I have worked in are Electronics, Local Government and Retail, genrally in the Information Technology space.
