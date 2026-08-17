@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 My name is Vernon Muddle,
-- 🔭 I’m currently working on documenting previous bodies of work with a goal to reimpliment some of those in more up to date technologies.
-- 🌱 I’m currently learning 
+- 🔭 I’m currently working on migration of my homelab from various docker-cli in bash to docker-compose.
+- 🌱 I’m currently learning docker compose - for my homelab.
 - 👯 I’m looking to collaborate on python, django, aws, ai, ci/cd related projects.
 - 🤔 I’m looking for help with finding some paid work.
 - 💬 Ask me about python, django, jenkins, github actions, aws, php, perl, bash.
@@ -20,7 +20,8 @@ My name is Vernon Muddle,
   - I like to build a team that can both rely on eachother and be able to take on eachother's work by having shared skillsets.
 
 ### My Career: 
-I have worked in the Electronics Industry, Local Government and Retail.
+I have worked mostly as a software developer, I also have worked in infrastructure as code and test automation.
+The industries that I have worked in are Electronics, Local Government and Retail, genrally in the Information Technology space.
 For more details look at the following page. [Career Details](career.md)
 
 
