@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-22T01:42:30.863Z",
+  "generatedAtEpochMs": 1787362950863,
+  "generator": {
+    "name": "Code Janitor",
+    "feature": "workspace-memory"
+  },
+  "handoffGuidance": [
+    "Read graphify-out/GRAPH_REPORT.md first for architecture and dependency questions.",
+    "Use workspace.json for machine-readable repo context before scanning broad parts of the repository.",
+    "Use graphify-out/WORKSPACE_MEMORY.md and workspacememory.md for human-readable handoff notes, recent changes, and Git-aware status."
+  ],
+  "workspace": {
+    "name": "vmuddle",
+    "root": "c:\\github\\vmuddle",
+    "activeFile": "README.md",
+    "refreshReason": "tracked-change",
+    "outputFiles": {
+      "markdown": "graphify-out/WORKSPACE_MEMORY.md",
+      "markdownMirror": "workspacememory.md",
+      "structuredManifest": "workspace.json"
+    },
+    "suggestedStartingPoints": [
+      "README.md"
+    ],
+    "stats": {
+      "totalFiles": 4,
+      "topLevelAreas": [
+        {
+          "name": "[root]",
+          "count": 4
+        }
+      ],
+      "primaryFileTypes": [
+        {
+          "name": ".md",
+          "count": 3
+        },
+        {
+          "name": ".json",
+          "count": 1
+        }
+      ],
+      "keyFiles": [
+        "README.md"
+      ],
+      "fileInventory": [
+        {
+          "path": "career.md",
+          "topLevelArea": "[root]",
+          "extension": ".md",
+          "isKeyFile": false
+        },
+        {
+          "path": "README.md",
+          "topLevelArea": "[root]",
+          "extension": ".md",
+          "isKeyFile": true
+        },
+        {
+          "path": "workspace.json",
+          "topLevelArea": "[root]",
+          "extension": ".json",
+          "isKeyFile": false
+        },
+        {
+          "path": "workspacememory.md",
+          "topLevelArea": "[root]",
+          "extension": ".md",
+          "isKeyFile": false
+        }
+      ]
+    }
+  },
+  "package": {
+    "available": false,
+    "error": "package.json was not found."
+  },
+  "currentStack": {
+    "lastActivityAt": "2026-08-22T01:42:28.674Z",
+    "trackedChangeCount": 3,
+    "trackedFileSnapshotCount": 1,
+    "changeTypeCounts": {
+      "save": 3,
+      "create": 0,
+      "delete": 0,
+      "rename": 0
+    }
+  },
+  "trackedSnapshots": [
+    {
+      "filePath": "README.md",
+      "updatedAt": 1787362948674,
+      "lineCount": 40,
+      "charCount": 2213,
+      "hash": "539d6653cd7b",
+      "preview": "## Hi there 👋 / My name is Vernon Muddle, / - 🔭 I’m currently working on migration of my homelab from various docker-cli in bash to docker-compose. / - 🌱 I’m currently learning docker compose - for my homelab. / -..."
+    }
+  ],
+  "recentChanges": [
+    {
+      "type": "save",
+      "path": "README.md",
+      "toPath": "",
+      "summary": "Line 28: inserted 1 line.",
+      "recordedAt": "2026-08-22T01:42:28.674Z",
+      "recordedAtEpochMs": 1787362948674,
+      "before": {
+        "kind": "text",
+        "lineCount": 40,
+        "charCount": 2167,
+        "hash": "ac7f1a85b86c",
+        "preview": "## Hi there 👋 / My name is Vernon Muddle, / - 🔭 I’m currently working on migration of my homelab from various docker-cli in bash to docker-compose. / - 🌱 I’m currently learning docker compose - for my homelab. / -...",
+        "updatedAt": 1787362948674
+      },
+      "after": {
+        "kind": "text",
+        "lineCount": 40,
+        "charCount": 2213,
+        "hash": "539d6653cd7b",
+        "preview": "## Hi there 👋 / My name is Vernon Muddle, / - 🔭 I’m currently working on migration of my homelab from various docker-cli in bash to docker-compose. / - 🌱 I’m currently learning docker compose - for my homelab. / -...",
+        "updatedAt": 1787362948674
+      },
+      "diff": {
+        "lineStart": 28,
+        "removedLines": 0,
+        "addedLines": 1,
+        "summary": "Line 28: inserted 1 line.",
+        "beforeFragment": "",
+        "afterFragment": "A USB mouse jiggler with password capability."
+      }
+    },
+    {
+      "type": "save",
+      "path": "README.md",
+      "toPath": "",
+      "summary": "Saved without a textual diff.",
+      "recordedAt": "2026-08-22T01:42:00.665Z",
+      "recordedAtEpochMs": 1787362920665,
+      "before": {
+        "kind": "text",
+        "lineCount": 40,
+        "charCount": 2167,
+        "hash": "ac7f1a85b86c",
+        "preview": "## Hi there 👋 / My name is Vernon Muddle, / - 🔭 I’m currently working on migration of my homelab from various docker-cli in bash to docker-compose. / - 🌱 I’m currently learning docker compose - for my homelab. / -...",
+        "updatedAt": 1787362920665
+      },
+      "after": {
+        "kind": "text",
+        "lineCount": 40,
+        "charCount": 2167,
+        "hash": "ac7f1a85b86c",
+        "preview": "## Hi there 👋 / My name is Vernon Muddle, / - 🔭 I’m currently working on migration of my homelab from various docker-cli in bash to docker-compose. / - 🌱 I’m currently learning docker compose - for my homelab. / -...",
+        "updatedAt": 1787362920665
+      },
+      "diff": null
+    },
+    {
+      "type": "save",
+      "path": "README.md",
+      "toPath": "",
+      "summary": "Line 26: replaced 1 line with 3 lines.",
+      "recordedAt": "2026-08-22T01:41:38.356Z",
+      "recordedAtEpochMs": 1787362898356,
+      "before": {
+        "kind": "text",
+        "lineCount": 38,
+        "charCount": 2141,
+        "hash": "5642bcba3c74",
+        "preview": "## Hi there 👋 / My name is Vernon Muddle, / - 🔭 I’m currently working on migration of my homelab from various docker-cli in bash to docker-compose. / - 🌱 I’m currently learning docker compose - for my homelab. / -...",
+        "updatedAt": 1787362898356
+      },
+      "after": {
+        "kind": "text",
+        "lineCount": 40,
+        "charCount": 2167,
+        "hash": "ac7f1a85b86c",
+        "preview": "## Hi there 👋 / My name is Vernon Muddle, / - 🔭 I’m currently working on migration of my homelab from various docker-cli in bash to docker-compose. / - 🌱 I’m currently learning docker compose - for my homelab. / -...",
+        "updatedAt": 1787362898356
+      },
+      "diff": {
+        "lineStart": 26,
+        "removedLines": 1,
+        "addedLines": 3,
+        "summary": "Line 26: replaced 1 line with 3 lines.",
+        "beforeFragment": "- [electronics](https://github.com/vmuddle/electronics): Various electronics projects that I have created.",
+        "afterFragment": "#### electronics / Various electronics projects that I have created. / - [e-mousejiggler](https://github.com/vmuddle/e-mousejiggler)"
+      }
+    }
+  ],
+  "hotFiles": [
+    {
+      "filePath": "README.md",
+      "count": 3
+    }
+  ],
+  "git": {
+    "available": true,
+    "branch": "main",
+    "headSummary": "2026-08-18 965ca27 feat: add more project details",
+    "statusSummary": "1 modified, 3 untrackeds",
+    "changedFileCount": 4,
+    "statusLines": [
+      "M README.md",
+      "?? graphify-out/",
+      "?? workspace.json",
+      "?? workspacememory.md"
+    ],
+    "error": ""
+  },
+  "github": {
+    "available": true,
+    "summary": "GitHub Repository: vmuddle/vmuddle\nDescription: About Vernon Muddle and his github repos\nVisibility: public | Default branch: main\nStars: 0 | Forks: 0 | Open issues: 0\n\nLatest commit on main:\n- 965ca27 by Vernon Muddle on 2026-08-17\n  feat: add more project details\n\nURL: https://github.com/vmuddle/vmuddle"
+  },
+  "graphify": {
+    "reportAvailable": false,
+    "graphAvailable": false,
+    "reportPath": "",
+    "graphPath": "",
+    "highlights": ""
+  },
+  "projectPlanner": null,
+  "agentNotes": [
+    "For recent repo changes, check recentChanges, trackedSnapshots, hotFiles, and git.",
+    "For architecture questions, combine graphify highlights with the Graphify report.",
+    "For machine-readable repo context, prefer this workspace.json manifest before broad repo scans."
+  ]
+}
