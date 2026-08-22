@@ -1,6 +1,6 @@
 # Workspace Memory
 This file is maintained automatically by Code Janitor so Claude, Codex, Bob, and any other AI agent can reuse repo context without rescanning everything from scratch.
-Generated: 2026-08-22T01:42:30.863Z
+Generated: 2026-08-22T04:49:28.490Z
 Workspace: vmuddle
 Workspace root: c:\github\vmuddle
 Refresh reason: tracked-change
@@ -16,10 +16,10 @@ Structured manifest: workspace.json
 - Audience: any AI agent working in this repository can treat this file as the current handoff ledger.
 - Graphify report: not available yet
 - Graphify graph: not available yet
-- Last activity: 2026-08-22T01:42:28.674Z
+- Last activity: 2026-08-22T04:49:14.015Z
 ## Workspace Focus
 - Active file in focus: README.md
-- Hottest files right now: README.md (3)
+- Hottest files right now: README.md (7)
 - Suggested starting points: README.md
 ## Current Workspace
 - Active file: README.md
@@ -30,16 +30,35 @@ Structured manifest: workspace.json
 ## Package Snapshot
 - Package metadata unavailable: package.json was not found.
 ## Current Stack
-- Logged change events: 3
-- Change mix: save (3)
+- Logged change events: 7
+- Change mix: save (7)
 - Remembered file snapshots: 1
-- Working tree summary: 1 modified, 3 untrackeds
+- Working tree summary: 4 modifieds
 ## Tracked Snapshots
-- README.md | 40 lines | 2213 chars | hash 539d6653cd7b
-  Last snapshot: 2026-08-22T01:42:28.674Z
+- README.md | 44 lines | 2347 chars | hash cb9a4a5eced3
+  Last snapshot: 2026-08-22T04:49:14.015Z
   Preview: "## Hi there 👋 / My name is Vernon Muddle, / - 🔭 I’m currently working on migration of my homelab from various docker-cli in bash to docker-compose. / - 🌱 I’m currently learning docker compose - for my homelab. / -..."
 
 ## Recent Changes
+### 2026-08-22T04:49:14.015Z | saved | README.md
+- Summary: Saved without a textual diff.
+- Before: 44 lines | 2,347 chars | hash cb9a4a5eced3 | preview: "## Hi there 👋 / My name is Vernon Muddle, / - 🔭 I’m currently working on migration of my homelab from various docker-cli in bash to docker-compose. / - 🌱 I’m currently learning docker compose - for my homelab. / -..."
+- After: 44 lines | 2,347 chars | hash cb9a4a5eced3 | preview: "## Hi there 👋 / My name is Vernon Muddle, / - 🔭 I’m currently working on migration of my homelab from various docker-cli in bash to docker-compose. / - 🌱 I’m currently learning docker compose - for my homelab. / -..."
+
+### 2026-08-22T04:45:10.935Z | saved | README.md
+- Summary: Line 29: removed 1 line.
+- Before: 44 lines | 2,348 chars | hash 722f0f768754 | preview: "## Hi there 👋 / My name is Vernon Muddle, / - 🔭 I’m currently working on migration of my homelab from various docker-cli in bash to docker-compose. / - 🌱 I’m currently learning docker compose - for my homelab. / -..."
+- After: 44 lines | 2,347 chars | hash cb9a4a5eced3 | preview: "## Hi there 👋 / My name is Vernon Muddle, / - 🔭 I’m currently working on migration of my homelab from various docker-cli in bash to docker-compose. / - 🌱 I’m currently learning docker compose - for my homelab. / -..."
+- Previous fragment: "("
+
+### 2026-08-22T04:44:59.855Z | saved | README.md
+- Summary: Line 29: inserted 2 lines.
+- Before: 43 lines | 2,244 chars | hash 8aafd8278ab2 | preview: "## Hi there 👋 / My name is Vernon Muddle, / - 🔭 I’m currently working on migration of my homelab from various docker-cli in bash to docker-compose. / - 🌱 I’m currently learning docker compose - for my homelab. / -..."
+- After: 44 lines | 2,348 chars | hash 722f0f768754 | preview: "## Hi there 👋 / My name is Vernon Muddle, / - 🔭 I’m currently working on migration of my homelab from various docker-cli in bash to docker-compose. / - 🌱 I’m currently learning docker compose - for my homelab. / -..."
+- Current fragment: "- [e-networkstatus]((https://github.com/vmuddle/e-networkstatus) A network status dashboard using LEDs."
+
+### 2026-08-22T04:43:58.356Z | saved | README.md
+
 ### 2026-08-22T01:42:28.674Z | saved | README.md
 - Summary: Line 28: inserted 1 line.
 - Before: 40 lines | 2,167 chars | hash ac7f1a85b86c | preview: "## Hi there 👋 / My name is Vernon Muddle, / - 🔭 I’m currently working on migration of my homelab from various docker-cli in bash to docker-compose. / - 🌱 I’m currently learning docker compose - for my homelab. / -..."
@@ -60,16 +79,16 @@ Structured manifest: workspace.json
 
 
 ## Hot Files
-- README.md (3 tracked changes)
+- README.md (7 tracked changes)
 
 ## Git Snapshot
 - Branch: main
-- HEAD: 2026-08-18 965ca27 feat: add more project details
-- Working tree summary: 1 modified, 3 untrackeds
+- HEAD: 2026-08-22 013ecbc feat: add the mous jiggler project
+- Working tree summary: 4 modifieds
 - M README.md
-- ?? graphify-out/
-- ?? workspace.json
-- ?? workspacememory.md
+- M graphify-out/WORKSPACE_MEMORY.md
+- M workspace.json
+- M workspacememory.md
 
 ## GitHub Snapshot
 GitHub Repository: vmuddle/vmuddle
@@ -78,8 +97,8 @@ Visibility: public | Default branch: main
 Stars: 0 | Forks: 0 | Open issues: 0
 
 Latest commit on main:
-- 965ca27 by Vernon Muddle on 2026-08-17
-  feat: add more project details
+- 013ecbc by Vernon Muddle on 2026-08-22
+  feat: add the mous jiggler project
 
 URL: https://github.com/vmuddle/vmuddle
 

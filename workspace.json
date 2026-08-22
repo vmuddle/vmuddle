@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-22T01:42:30.863Z",
-  "generatedAtEpochMs": 1787362950863,
+  "generatedAt": "2026-08-22T04:49:28.490Z",
+  "generatedAtEpochMs": 1787374168490,
   "generator": {
     "name": "Code Janitor",
     "feature": "workspace-memory"
@@ -78,11 +78,11 @@
     "error": "package.json was not found."
   },
   "currentStack": {
-    "lastActivityAt": "2026-08-22T01:42:28.674Z",
-    "trackedChangeCount": 3,
+    "lastActivityAt": "2026-08-22T04:49:14.015Z",
+    "trackedChangeCount": 7,
     "trackedFileSnapshotCount": 1,
     "changeTypeCounts": {
-      "save": 3,
+      "save": 7,
       "create": 0,
       "delete": 0,
       "rename": 0
@@ -91,14 +91,114 @@
   "trackedSnapshots": [
     {
       "filePath": "README.md",
-      "updatedAt": 1787362948674,
-      "lineCount": 40,
-      "charCount": 2213,
-      "hash": "539d6653cd7b",
+      "updatedAt": 1787374154015,
+      "lineCount": 44,
+      "charCount": 2347,
+      "hash": "cb9a4a5eced3",
       "preview": "## Hi there 👋 / My name is Vernon Muddle, / - 🔭 I’m currently working on migration of my homelab from various docker-cli in bash to docker-compose. / - 🌱 I’m currently learning docker compose - for my homelab. / -..."
     }
   ],
   "recentChanges": [
+    {
+      "type": "save",
+      "path": "README.md",
+      "toPath": "",
+      "summary": "Saved without a textual diff.",
+      "recordedAt": "2026-08-22T04:49:14.015Z",
+      "recordedAtEpochMs": 1787374154015,
+      "before": {
+        "kind": "text",
+        "lineCount": 44,
+        "charCount": 2347,
+        "hash": "cb9a4a5eced3",
+        "preview": "## Hi there 👋 / My name is Vernon Muddle, / - 🔭 I’m currently working on migration of my homelab from various docker-cli in bash to docker-compose. / - 🌱 I’m currently learning docker compose - for my homelab. / -...",
+        "updatedAt": 1787374154015
+      },
+      "after": {
+        "kind": "text",
+        "lineCount": 44,
+        "charCount": 2347,
+        "hash": "cb9a4a5eced3",
+        "preview": "## Hi there 👋 / My name is Vernon Muddle, / - 🔭 I’m currently working on migration of my homelab from various docker-cli in bash to docker-compose. / - 🌱 I’m currently learning docker compose - for my homelab. / -...",
+        "updatedAt": 1787374154015
+      },
+      "diff": null
+    },
+    {
+      "type": "save",
+      "path": "README.md",
+      "toPath": "",
+      "summary": "Line 29: removed 1 line.",
+      "recordedAt": "2026-08-22T04:45:10.935Z",
+      "recordedAtEpochMs": 1787373910935,
+      "before": {
+        "kind": "text",
+        "lineCount": 44,
+        "charCount": 2348,
+        "hash": "722f0f768754",
+        "preview": "## Hi there 👋 / My name is Vernon Muddle, / - 🔭 I’m currently working on migration of my homelab from various docker-cli in bash to docker-compose. / - 🌱 I’m currently learning docker compose - for my homelab. / -...",
+        "updatedAt": 1787373910935
+      },
+      "after": {
+        "kind": "text",
+        "lineCount": 44,
+        "charCount": 2347,
+        "hash": "cb9a4a5eced3",
+        "preview": "## Hi there 👋 / My name is Vernon Muddle, / - 🔭 I’m currently working on migration of my homelab from various docker-cli in bash to docker-compose. / - 🌱 I’m currently learning docker compose - for my homelab. / -...",
+        "updatedAt": 1787373910935
+      },
+      "diff": {
+        "lineStart": 29,
+        "removedLines": 1,
+        "addedLines": 0,
+        "summary": "Line 29: removed 1 line.",
+        "beforeFragment": "(",
+        "afterFragment": ""
+      }
+    },
+    {
+      "type": "save",
+      "path": "README.md",
+      "toPath": "",
+      "summary": "Line 29: inserted 2 lines.",
+      "recordedAt": "2026-08-22T04:44:59.855Z",
+      "recordedAtEpochMs": 1787373899855,
+      "before": {
+        "kind": "text",
+        "lineCount": 43,
+        "charCount": 2244,
+        "hash": "8aafd8278ab2",
+        "preview": "## Hi there 👋 / My name is Vernon Muddle, / - 🔭 I’m currently working on migration of my homelab from various docker-cli in bash to docker-compose. / - 🌱 I’m currently learning docker compose - for my homelab. / -...",
+        "updatedAt": 1787373899855
+      },
+      "after": {
+        "kind": "text",
+        "lineCount": 44,
+        "charCount": 2348,
+        "hash": "722f0f768754",
+        "preview": "## Hi there 👋 / My name is Vernon Muddle, / - 🔭 I’m currently working on migration of my homelab from various docker-cli in bash to docker-compose. / - 🌱 I’m currently learning docker compose - for my homelab. / -...",
+        "updatedAt": 1787373899855
+      },
+      "diff": {
+        "lineStart": 29,
+        "removedLines": 0,
+        "addedLines": 2,
+        "summary": "Line 29: inserted 2 lines.",
+        "beforeFragment": "",
+        "afterFragment": "- [e-networkstatus]((https://github.com/vmuddle/e-networkstatus) A network status dashboard using LEDs."
+      }
+    },
+    {
+      "type": "save",
+      "path": "README.md",
+      "toPath": "",
+      "summary": "",
+      "recordedAt": "2026-08-22T04:43:58.356Z",
+      "recordedAtEpochMs": 1787373838356,
+      "before": null,
+      "after": null,
+      "diff": null
+    },
     {
       "type": "save",
       "path": "README.md",
@@ -192,26 +292,26 @@
   "hotFiles": [
     {
       "filePath": "README.md",
-      "count": 3
+      "count": 7
     }
   ],
   "git": {
     "available": true,
     "branch": "main",
-    "headSummary": "2026-08-18 965ca27 feat: add more project details",
-    "statusSummary": "1 modified, 3 untrackeds",
+    "headSummary": "2026-08-22 013ecbc feat: add the mous jiggler project",
+    "statusSummary": "4 modifieds",
     "changedFileCount": 4,
     "statusLines": [
       "M README.md",
-      "?? graphify-out/",
-      "?? workspace.json",
-      "?? workspacememory.md"
+      "M graphify-out/WORKSPACE_MEMORY.md",
+      "M workspace.json",
+      "M workspacememory.md"
     ],
     "error": ""
   },
   "github": {
     "available": true,
-    "summary": "GitHub Repository: vmuddle/vmuddle\nDescription: About Vernon Muddle and his github repos\nVisibility: public | Default branch: main\nStars: 0 | Forks: 0 | Open issues: 0\n\nLatest commit on main:\n- 965ca27 by Vernon Muddle on 2026-08-17\n  feat: add more project details\n\nURL: https://github.com/vmuddle/vmuddle"
+    "summary": "GitHub Repository: vmuddle/vmuddle\nDescription: About Vernon Muddle and his github repos\nVisibility: public | Default branch: main\nStars: 0 | Forks: 0 | Open issues: 0\n\nLatest commit on main:\n- 013ecbc by Vernon Muddle on 2026-08-22\n  feat: add the mous jiggler project\n\nURL: https://github.com/vmuddle/vmuddle"
   },
   "graphify": {
     "reportAvailable": false,
